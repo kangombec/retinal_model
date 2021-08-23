@@ -3,7 +3,7 @@ At first, a model is built using an dataset fro RIGA. Upon successfully training
 Furthermore, the weights are loaded and re-used to develop a new model using images acquired from a low-cost ophthalmoscope.
 
 The weights of the models are stored in file folder for both MESSIDOR and Arclight dataset.
-few images have been provided for test. Neverthesless, you may have to adjust the code to allow you test for single images. The reason is behind this is because, the code was written to accomodate dataset of retinal images. 
+few images have been provided for test. Neverthesless, you may have to adjust the code to allow you test for single images. 
 
 
 
